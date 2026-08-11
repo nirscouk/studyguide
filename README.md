@@ -8,6 +8,7 @@ Built for:
 - **Better daily habits** (sleep, water, focus, action)
 - **Healthier competition and relationships** (friends, school, home)
 - **Character that lasts after the exam**
+- **Stage guidance** — 11+, Years 7–10, GCSE, subject choice, life direction
 
 ## Read the book
 
@@ -17,6 +18,9 @@ Built for:
 | [`book/00-welcome.md`](book/00-welcome.md) | Start here |
 | [`book/BOOK.md`](book/BOOK.md) | All chapters in one file |
 | [`book/15-starter-and-integration.md`](book/15-starter-and-integration.md) | 2-week launch plan |
+| [`book/16-stage-path-11plus-to-gcse.md`](book/16-stage-path-11plus-to-gcse.md) | 11+ through GCSE by year |
+| [`book/17-subject-choice-and-life-aim.md`](book/17-subject-choice-and-life-aim.md) | Options + life aim |
+| [`book/18-shortcuts-and-quick-guides.md`](book/18-shortcuts-and-quick-guides.md) | Honest shortcuts + cheat sheets |
 
 ## Book structure
 
@@ -25,6 +29,8 @@ Built for:
 3. **Body & mind** — sleep, water, meditation, energy  
 4. **People** — friends, school, family, competition, traps  
 5. **Launch** — mindset tools + 2-week starter + weekly loop  
+6. **Stage & direction** — 11+, Y7–11, GCSE, subject choice, life aim  
+7. **Shortcuts & tools** — honest cheat sheets, exam technique, quick guides
 
 ## Why Markdown + Git?
 

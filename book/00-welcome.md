@@ -24,11 +24,14 @@ A practical system:
 
 | If you are… | Do this |
 |-------------|---------|
-| **Starting from zero** | Read Part I → then jump to the **2-week starter** (last chapter) and run it |
+| **Starting from zero** | Read Part I → then jump to the **2-week starter** (Ch 15) and run it |
+| **11+ / Y7–11 / GCSE** | [Chapter 16 — stage path](16-stage-path-11plus-to-gcse.md), then the matching methods |
+| **Choosing GCSE options / life direction** | [Chapter 17](17-subject-choice-and-life-aim.md) |
+| **Want shortcuts / cheat sheets / exam technique** | [Chapter 18](18-shortcuts-and-quick-guides.md) — honest tools only |
 | **Close to exams** | Skim Part II (methods) + sleep + “what to avoid”; do past papers daily |
 | **Stuck on procrastination** | Chapter on action timing first, then time management |
 | **Stressed by friends/family** | Part IV (people) + sleep |
-| **A parent** | Read Welcome + People + Sleep; help with timetable and quiet blocks, not constant pressure |
+| **A parent** | Welcome + Ch 8 sleep + Ch 11 people + Ch 16–17; protect quiet blocks, not only pressure |
 
 **Rule:** one idea → one action the same day. Reading alone does not raise grades.
 
@@ -40,7 +43,9 @@ A practical system:
 | **II** | Study engine | Action, time, methods, notes, exam cycles |
 | **III** | Body & mind | Sleep, water, meditation, energy, focus |
 | **IV** | People | Friends, school, family, competition, traps |
-| **V** | Character & launch | Mindset tools, 2-week plan, life beyond the paper |
+| **V** | Character & launch | Mindset tools, 2-week plan |
+| **VI** | Stage & direction | 11+ → Y11, subject choice, life aim |
+| **VII** | Shortcuts & tools | Honest shortcuts, cheat sheets, exam technique |
 
 ## House rules while you follow this guide
 

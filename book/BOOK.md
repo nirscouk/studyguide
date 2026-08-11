@@ -12,7 +12,8 @@
 
 ## How to read
 
-Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then jump to [Chapter 15 — Starter & Integration](15-starter-and-integration.md).
+Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then jump to [Chapter 15 — Starter & Integration](15-starter-and-integration.md).  
+For **11+ / year group / GCSE / subject choice**, use [Part VI](#part-vi--stage-subjects--life-direction).
 
 **Single-file edition:** [BOOK.md](BOOK.md)
 
@@ -59,6 +60,19 @@ Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then j
 | 14 | [Character, Mindset & Manifestation](14-mindset-and-manifestation.md) |
 | 15 | [Two-Week Starter Plan & Life Integration](15-starter-and-integration.md) |
 
+## Part VI — Stage, subjects & life direction
+
+| # | Chapter |
+|---|---------|
+| 16 | [Your Stage — 11+, Years 7–10, and GCSE](16-stage-path-11plus-to-gcse.md) |
+| 17 | [Choosing Subjects & Aiming for Life](17-subject-choice-and-life-aim.md) |
+
+## Part VII — Shortcuts & quick tools
+
+| # | Chapter |
+|---|---------|
+| 18 | [Shortcuts, “Cheat Sheets” & Quick Guides](18-shortcuts-and-quick-guides.md) |
+
 ---
 
 *Begin → [Welcome](00-welcome.md)*
@@ -91,11 +105,14 @@ A practical system:
 
 | If you are… | Do this |
 |-------------|---------|
-| **Starting from zero** | Read Part I → then jump to the **2-week starter** (last chapter) and run it |
+| **Starting from zero** | Read Part I → then jump to the **2-week starter** (Ch 15) and run it |
+| **11+ / Y7–11 / GCSE** | [Chapter 16 — stage path](16-stage-path-11plus-to-gcse.md), then the matching methods |
+| **Choosing GCSE options / life direction** | [Chapter 17](17-subject-choice-and-life-aim.md) |
+| **Want shortcuts / cheat sheets / exam technique** | [Chapter 18](18-shortcuts-and-quick-guides.md) — honest tools only |
 | **Close to exams** | Skim Part II (methods) + sleep + “what to avoid”; do past papers daily |
 | **Stuck on procrastination** | Chapter on action timing first, then time management |
 | **Stressed by friends/family** | Part IV (people) + sleep |
-| **A parent** | Read Welcome + People + Sleep; help with timetable and quiet blocks, not constant pressure |
+| **A parent** | Welcome + Ch 8 sleep + Ch 11 people + Ch 16–17; protect quiet blocks, not only pressure |
 
 **Rule:** one idea → one action the same day. Reading alone does not raise grades.
 
@@ -107,7 +124,9 @@ A practical system:
 | **II** | Study engine | Action, time, methods, notes, exam cycles |
 | **III** | Body & mind | Sleep, water, meditation, energy, focus |
 | **IV** | People | Friends, school, family, competition, traps |
-| **V** | Character & launch | Mindset tools, 2-week plan, life beyond the paper |
+| **V** | Character & launch | Mindset tools, 2-week plan |
+| **VI** | Stage & direction | 11+ → Y11, subject choice, life aim |
+| **VII** | Shortcuts & tools | Honest shortcuts, cheat sheets, exam technique |
 
 ## House rules while you follow this guide
 
@@ -225,6 +244,8 @@ Make them **specific + measurable + dated**:
 
 Ask: *“What’s the outcome for today’s block?”*  
 Not only: *“Have you studied?”*
+
+Targets look different by stage (11+, Y7–11, GCSE options) — see [Chapter 16](16-stage-path-11plus-to-gcse.md) and [Chapter 17](17-subject-choice-and-life-aim.md).
 
 ---
 
@@ -1108,4 +1129,655 @@ You need a **repeatable system** — and the courage to start today’s block.
 
 ---
 
-*[← Mindset](14-mindset-and-manifestation.md) · [Back to Contents](00-contents.md)*
+### Stage add-on (after Day 0)
+
+Open [Chapter 16](16-stage-path-11plus-to-gcse.md) for your year, and if you are choosing options, [Chapter 17](17-subject-choice-and-life-aim.md).
+
+---
+
+*[← Mindset](14-mindset-and-manifestation.md) · [Next: Stage Path →](16-stage-path-11plus-to-gcse.md)*
+
+---
+
+# 16. Your Stage — 11+, Years 7–10, and GCSE
+
+The **same engine** works at every stage (targets, active practice, sleep, kind boundaries).  
+What changes is **what you practise, how long you block, and how hard you push**.
+
+This chapter is written mainly for **UK-style paths** (11+, secondary, GCSE). The habits still transfer if your school uses different names.
+
+## Quick map
+
+| Stage | Main job | Biggest risk |
+|-------|----------|--------------|
+| **11+** | Timed accuracy in English, maths, VR/NVR (as required) | Panic tutoring + ruined sleep; identity = “pass/fail school” |
+| **Year 7** | Settle habits; love of learning; catch gaps | “Secondary is easy” → bad habits form |
+| **Year 8** | Strengthen literacy/numeracy; curiosity | Coasting; phone replaces reading |
+| **Year 9** | Explore strengths; prepare for options | Choosing subjects only by friends or prestige |
+| **Year 10** | GCSE foundations; know the **spec** | Treating Y10 as “not real yet” |
+| **Year 11 / GCSE** | Papers, errors, sleep, calm exam routine | Cram + comparison + burnout |
+
+**Parent rule:** raise the **system** with age; don’t only raise the **shouting**.
+
+---
+
+## 11+ (and similar selective tests)
+
+### What it is
+
+A timed entrance-style exam set used by many grammar and selective schools. Formats vary by area and school — always check **your** local papers and dates. Common areas:
+
+- English (comprehension, sometimes writing)  
+- Maths  
+- Verbal reasoning (VR)  
+- Non-verbal reasoning (NVR)  
+
+### What actually helps
+
+| Do | Don’t |
+|----|--------|
+| Short, regular practice (quality over marathon days) | 4-hour weekend guilt sessions only |
+| Timed mini-papers + **error review** | Only untimed easy worksheets |
+| Build reading stamina (real books) | Only tip videos |
+| Keep sleep and play | Sacrifice all childhood for one test |
+| 1–2 practice papers under real timing nearer the date | Brand-new material the night before |
+
+### Weekly shape (example)
+
+- **4–5 days:** 25–40 min focused practice (one skill area)  
+- **1 day:** longer mixed/timed set + mark + error log  
+- **Daily:** reading for pleasure (builds English more than panic packs alone)  
+- **Rest:** protect free play; anxious kids need recovery  
+
+### Mindset for 11+
+
+- A school place is an **opportunity**, not a measure of a child’s worth.  
+- Many excellent lives start without a grammar place.  
+- Parents: model calm. Children borrow your nervous system.
+
+### Family checklist
+
+- [ ] Know exact exam format and dates for *your* applications  
+- [ ] Error log exists (wrong type + why)  
+- [ ] Timed practice started early enough, gently  
+- [ ] Sleep protected in the final fortnight  
+- [ ] Backup school plan discussed without shame  
+
+---
+
+## Year 7 — Roots
+
+**Job:** become a secondary student who can organise life.
+
+| Build | Why |
+|-------|-----|
+| Bag, homework planner, simple folder per subject | Chaos kills confidence |
+| 30–60 min focused homework blocks when needed | Habit > heroics |
+| Reading habit | Fuels every subject later |
+| Asking teachers for help early | Small gaps stay small |
+| Sleep + less late-night phone | Brain still developing hard |
+
+**Avoid:** treating Y7 as “GCSE already” with constant past papers. Foundations and habits first.
+
+**Life aim seed:** try clubs, sports, music, coding, volunteering — discover what energises you.
+
+---
+
+## Year 8 — Strength
+
+**Job:** strengthen English and maths fluency; stay curious.
+
+| Build | Why |
+|-------|-----|
+| Weekly review of weak topics (spacing) | Stops silent gaps |
+| Writing in full sentences; showing maths working | Exam skill starts early |
+| One “hard thing” hobby or skill | Grit practice outside marks |
+| Friend standards | Peer group shapes effort norms |
+
+**Avoid:** all gaming/social, no books; only studying the night before tests.
+
+---
+
+## Year 9 — Direction year
+
+**Job:** learn how you learn; prepare for **subject choices** (often GCSE options).
+
+| Build | Why |
+|-------|-----|
+| Honest note of strong/weak subjects | Options need truth, not vibes only |
+| Mini projects or deeper reading in interests | Clues for life aim |
+| Meeting / booklet on option subjects | Know what the course *really* is |
+| Talk with teachers + family | Multiple viewpoints |
+
+See [Chapter 17 — Choosing subjects & life aim](17-subject-choice-and-life-aim.md).
+
+**Avoid:** picking a subject only because a friend did, or only because it “sounds easy.”
+
+---
+
+## Year 10 — GCSE foundations
+
+**Job:** treat the year as **real exam content**, not a trailer.
+
+| Build | Why |
+|-------|-----|
+| Own a copy of each **specification** (exam board topics) | You can’t hit targets you can’t see |
+| Start **active recall** and end-of-topic tests | Memory for Y11 |
+| Light past-paper questions by topic | Format familiarity |
+| Error log from the first mock | Compounding advantage |
+| Balanced load across core + options | No abandoned subjects |
+
+**Weekly:** same study engine as this book — shorter blocks are fine, consistency is not optional.
+
+**Avoid:** “I’ll start in Year 11.” Y11 is for polishing and papers, not learning everything cold.
+
+---
+
+## Year 11 / GCSE exam year
+
+**Job:** convert knowledge into **marks under time**.
+
+| Phase | Focus |
+|-------|--------|
+| Autumn | Spec coverage + close gaps; first serious mocks as data |
+| Winter–spring | Mixed papers; error-log attacks; spaced review |
+| Final weeks | Timed papers, sleep, light review, logistics (candidate number, kit, travel) |
+| Exam days | Routine you practised; water; calm breath; one question at a time |
+
+### GCSE-specific method tips
+
+- **Know the paper structure** (marks per question, calculator/non-calculator, required practicals, set texts).  
+- Mark with the **official style** in mind (keywords, method marks, quote+explain).  
+- Core subjects (English, maths, sciences where required) get protected weekly time even when options feel more fun.  
+- After each mock: three lists — *keep / fix / drop* (drop low-value activities, not whole subjects).  
+
+### Load guide (adjust to the child)
+
+| Day type | Focus study (example) |
+|----------|------------------------|
+| Normal school day | 1.5–3 hours total in blocks (quality) |
+| Weekend | 1 longer paper or 2–3 solid blocks + rest |
+| Near exams | More papers; **not** less sleep |
+
+If anxiety or hours spiral, reduce noise (phone, drama) before adding more hours.
+
+---
+
+## What stays the same at every stage
+
+1. Clear weekly targets  
+2. Active practice > passive highlighting  
+3. Error log  
+4. Sleep, water, movement  
+5. Kind people skills  
+6. Identity bigger than one result  
+
+## Stage selector (start here this week)
+
+| If your child / you are in… | Read next | Do this week |
+|-----------------------------|-----------|--------------|
+| 11+ prep | This chapter + methods + sleep | 4 short practices + 1 timed set |
+| Y7–8 | This chapter + action timing + notes | Planner + reading streak + one weak-topic fix |
+| Y9 | Ch 17 subject choice | Options research sheet |
+| Y10 | Methods + weekly cycle + specs | Spec checklist + topic questions |
+| Y11 / GCSE | Papers + sleep + what to avoid | One timed paper + error log purge |
+
+---
+
+*[← Starter & Integration](15-starter-and-integration.md) · [Next: Subject Choice & Life Aim →](17-subject-choice-and-life-aim.md)*
+
+---
+
+# 17. Choosing Subjects & Aiming for Life
+
+Subject choices (especially around **Year 9 into GCSE**, and later post-16) shape workload, confidence, and open doors.  
+They should serve a **life direction** — without forcing a 14-year-old to pick a forever career.
+
+## Part A — How to choose GCSE (and similar) subjects
+
+### The five filters (use all of them)
+
+Score each optional subject 1–5:
+
+| Filter | Question |
+|--------|----------|
+| **1. Enjoyment** | Do I engage in lessons without constant dread? |
+| **2. Strength** | Are my marks / teacher feedback solid *with honest effort*? |
+| **3. Doors** | Does this keep paths open I might want (sixth form, college, apprenticeships, uni ideas)? |
+| **4. Balance** | Mix of essay, practical, creative, numerical — or all the same pain type? |
+| **5. Reality** | Coursework load, exam-only, tier entry, teacher stability, my real weekly hours |
+
+**High total + honest “yes” on doors you care about** beats “my friends chose it” or “it sounds fancy.”
+
+### Core vs options (typical pattern)
+
+Exact rules depend on the school. Often something like:
+
+- **English Language** (and often **Literature**)  
+- **Maths**  
+- **Sciences** (combined or separate — school policy matters)  
+- **Options:** humanities, languages, arts, technology, business, PE theory, etc.  
+
+**Never drop literacy and numeracy standards** even if you love only creative subjects. Adult life and almost every good path still use them.
+
+### Useful “door-openers” (not the only truth)
+
+| If you might want… | Subjects that often help |
+|--------------------|---------------------------|
+| Medicine / clinical ideas later | Strong sciences + maths; check future entry advice early |
+| Engineering / physical sciences | Maths + physics (+ chemistry often useful) |
+| Computer science / tech | Maths + computing if available; build projects outside school too |
+| Law / politics / humanities | Essay subjects (e.g. history, English); clear writing matters most |
+| Business / economics paths | Maths + relevant options; real reading helps more than the label alone |
+| Creative careers | Art/music/drama/design *plus* a plan for portfolio and English |
+| Skilled trades / apprenticeships | Solid maths/English; practical subjects; attitude and attendance |
+
+**Important:** requirements change. For competitive paths, check **current** sixth-form, college, apprenticeship, or university guidance — don’t rely on playground rumour.
+
+### Red flags when choosing
+
+- Choosing only to stay with a friend in every class  
+- Choosing only what parents wanted in 1998 without a conversation  
+- Choosing “easy” then being bored and careless  
+- Choosing maximum prestige stack you will hate for two years  
+- Ignoring double-language or triple-science workload if sleep is already broken  
+
+### Decision workshop (family, 45 minutes)
+
+1. Student lists top 6 option interests alone (5 min).  
+2. Family lists hopes *separately* (5 min).  
+3. Compare without blame (10 min).  
+4. Apply the five filters with real marks/comments (15 min).  
+5. Write a **provisional** set + one backup (10 min).  
+6. Confirm against school option block grid (blocks sometimes force trade-offs).  
+
+```text
+My provisional GCSE options:
+1.
+2.
+3.
+4.
+Backup if blocked:
+Why these keep doors open:
+One subject I refuse to pick only for status:
+```
+
+### After choices are locked
+
+- Don’t replay regret all of Y10 — **run the system** in the subjects you have.  
+- Excellence in a “second choice” still opens doors.  
+- If a subject is truly wrong and the school allows a rare early change, decide fast with teachers — don’t drift for a year.
+
+---
+
+## Part B — Aim for life (without freezing the future)
+
+### Life aim ≠ job title at 14
+
+A healthy aim answers:
+
+1. **What problems do I like solving?**  
+2. **What work feels meaningful even when hard?**  
+3. **What lifestyle values matter** (helping people, making things, outdoors, stability, creativity, income floor)?  
+4. **What skills will I build for the next 2–3 years?**  
+
+Job titles change. **Skills and character compound.**
+
+### Three horizons
+
+| Horizon | Time | Focus |
+|---------|------|--------|
+| **Near** | This term | Grades, habits, health, one skill project |
+| **Mid** | 1–3 years | GCSE → post-16 choice (A-levels, T Levels, BTEC, apprenticeship, etc.) |
+| **Far** | 5–15 years | Direction of contribution — flexible, reviewed yearly |
+
+Review the far horizon **once a year**, not every anxious Sunday.
+
+### Post-16 paths (overview, not ranking)
+
+All can lead to good lives when matched to the person:
+
+| Path | Often suits |
+|------|-------------|
+| **A-levels / academic sixth form** | Strong exam preference; specific uni-style routes |
+| **T Levels / technical** | Classroom + industry placement style learning |
+| **Applied / vocational diplomas** | Coursework-heavy, practical fields |
+| **Apprenticeships** | Earn + learn; strong for many skilled and professional routes |
+| **Mixed / foundation routes** | When grades or confidence need a bridge |
+
+**Prestige is not the same as fit.** Fit + effort beats a famous path you hate.
+
+### Building a life CV while at school (parallel track)
+
+Marks matter. So does proof of a human who can finish things:
+
+- Clubs, teams, music, cadets, coding repos, part-time work, caring duties, volunteering  
+- A small portfolio (writing, design, projects)  
+- Reliability — showing up — teachers and employers notice  
+
+One deep interest beats ten empty certificate screenshots.
+
+### Values checklist (tick what is truly yours)
+
+- [ ] Helping people directly  
+- [ ] Building / fixing / making  
+- [ ] Ideas, research, debate  
+- [ ] Performing / creating art  
+- [ ] Nature / animals / outdoors  
+- [ ] Leading teams  
+- [ ] Working with data / systems  
+- [ ] Running something of my own one day  
+- [ ] Steady security for my future family  
+- [ ] Faith, service, or community (if relevant to you)  
+
+Top 3 values → use them when options conflict.
+
+### Family conversations that help
+
+| Helpful | Unhelpful |
+|---------|-----------|
+| “What doors do you want to keep open?” | “You will be a ___ or you’ve failed.” |
+| “Here’s what this path demands day to day.” | “Your cousin got all 9s so you must.” |
+| “Let’s check real entry requirements.” | “Only university counts.” |
+| “We’ll support the plan we agree.” | “My dream is now your only dream.” |
+
+Students: listen to experience.  
+Parents: advise hard, attach love harder.
+
+---
+
+## Part C — One-page life & subject plan
+
+```text
+Stage (11+ / Y7 / Y8 / Y9 / Y10 / Y11): ________
+
+This year’s academic aim:
+-
+
+Skills I will build outside marks:
+-
+
+Subjects / papers that matter most this year:
+-
+
+Provisional longer path I’m curious about (changeable):
+-
+
+Top 3 values:
+1.
+2.
+3.
+
+Adult I can ask for honest advice:
+-
+
+Review date (termly):
+```
+
+## Link back to the engine
+
+Subject choice and life aim decide **where** you point.  
+The rest of this book decides **whether you arrive**:
+
+- Action timing and time blocks  
+- Methods and past papers  
+- Sleep and health  
+- People and pressure  
+- Character under stress  
+
+> Choose doors wisely.  
+> Walk through them daily.  
+> Stay kind. Stay consistent. Stay bigger than one result.
+
+---
+
+*[← Stage Path](16-stage-path-11plus-to-gcse.md) · [Next: Shortcuts & Quick Guides →](18-shortcuts-and-quick-guides.md)*
+
+---
+
+# 18. Shortcuts, “Cheat Sheets” & Quick Guides
+
+## Do we need these?
+
+**Yes — the honest kind.**  
+**No — the dishonest kind.**
+
+| Add to the family system | Do **not** add |
+|--------------------------|----------------|
+| One-page **summary sheets** (“cheat sheets” you built yourself) | Stealing papers, leaking scripts, buying completed coursework |
+| **Exam technique** shortcuts (how marks are won) | Phone in the hall, copying, impersonation |
+| **Process shortcuts** that save time without skipping learning | “Hacks” that only create the *feeling* of progress |
+| Short **stage quick-guides** (what to do this week) | Pretending a shortcut replaces sleep, practice, or integrity |
+| Templates (error log, weekly plan, options sheet) | Paying someone to do the thinking for you long-term |
+
+This book already is a **master guide**. What this chapter adds is:
+
+1. Clear ethics  
+2. High-ROI legitimate shortcuts  
+3. How to build personal cheat sheets  
+4. Exam-hall technique  
+5. What *not* to outsource to random internet “cheats”  
+
+> Integrity is part of doing well in **life**, not only exams.  
+> A grade you didn’t earn becomes a skill gap you meet later — harder.
+
+---
+
+## Part 1 — Ethics in one page
+
+### Allowed (smart)
+
+- Your own condensed notes and formula sheets **for revision at home**  
+- Teacher-approved formula booklets if the exam allows them  
+- Past papers, mark schemes, examiners’ reports (official)  
+- Timers, planners, spaced-repetition apps  
+- Study groups that **explain**, not copy  
+
+### Not allowed (and not worth it)
+
+- Any communication of answers in a live exam  
+- Misuse of devices where banned  
+- Plagiarism / AI-submitted work as if it were yours when rules forbid it  
+- Sharing or soliciting confidential assessment material  
+
+**Life angle:** shortcuts that destroy trust also destroy references, courses, and self-respect. The best “cheat code” is **preparation that makes the paper feel familiar**.
+
+---
+
+## Part 2 — Legitimate shortcuts (high ROI)
+
+These save time **because they focus effort**, not because they skip learning.
+
+### Study shortcuts
+
+| Shortcut | How | Why it works |
+|----------|-----|--------------|
+| **80/20 topics** | Star high-weight / high-frequency areas first | Marks cluster |
+| **Questions before notes** | Try 2–3 questions, then study the gap | Targets real holes |
+| **Blank-page dump** | 10 min write-all-you-know, then check | Faster than re-reading |
+| **Error-log only sessions** | Re-drill old mistakes only | Stops repeat losses |
+| **Mark scheme reverse** | Read what earns marks, then practise to that standard | Aligns with examiners |
+| **Teach one idea** | 5 min explain aloud | Exposes fluff |
+| **Two-pass papers** | Easy marks first, hard later | Time management |
+| **Template answers** | For essay subjects: fixed paragraph skeleton | Speed + structure |
+
+### Life / admin shortcuts
+
+- Same wake time + same first study slot (less decision fatigue)  
+- Phone charges outside bedroom (sleep shortcut)  
+- Bag packed night before exam (anxiety shortcut)  
+- One master calendar for all deadlines  
+
+### Fake shortcuts (avoid)
+
+| Feels fast | Real cost |
+|------------|-----------|
+| Only watching summary videos | Weak recall in silence of the hall |
+| Highlighting whole chapters | Busyness without retrieval |
+| Cramming overnight | Sleep debt, sloppy papers |
+| Memorising mark schemes without understanding | Collapse on twist questions |
+| Buying “predicted” topic rumours | Panic if wrong |
+
+---
+
+## Part 3 — Personal “cheat sheets” (legal revision tools)
+
+A good cheat sheet is a **one-page external brain** you eventually want to internalise.
+
+### Build rules
+
+1. **One topic or one paper skill per page** (or one tightly related cluster)  
+2. Written in **your words** + tiny examples  
+3. Include **common traps** and “easy marks”  
+4. Rebuild from memory weekly (the rebuild is the study)  
+5. In the exam: only use what **rules allow** (most halls: nothing except permitted materials)
+
+### Cheat-sheet templates
+
+**STEM / maths-style**
+
+```text
+Topic:
+Key formulae / rules:
+When to use each:
+1 worked micro-example:
+Top 3 mistakes I make:
+Mark-scheme phrases / method marks:
+```
+
+**Essay / humanities-style**
+
+```text
+Question type:
+Intro skeleton (1–2 lines):
+Paragraph pattern (PEEL / whatever you use):
+3 flexible examples / case points:
+Judgement phrases:
+Timing: minutes per section:
+```
+
+**Language / vocab**
+
+```text
+High-value phrases:
+Grammar patterns I always miss:
+Listening/reading trap words:
+Speaking/writing checklist:
+```
+
+### Parent tip
+
+Help print and file sheets. Don’t write them *for* the child every time — ownership builds memory.
+
+---
+
+## Part 4 — Exam-hall technique guide (universal)
+
+Use with GCSE, mocks, 11+ timed sets, and school tests.
+
+### Before the start
+
+- Details on paper correct  
+- Scan whole paper: marks, sections, choices  
+- Rough time budget: **minutes ≈ marks** (adjust by subject rules)  
+
+### During
+
+1. **Read the command word** (explain / evaluate / calculate / compare)  
+2. Easy wins first if allowed by structure  
+3. Show working / structure for method marks  
+4. If stuck: park it, mark the question number, return  
+5. Last 5–10 minutes: check calculators, units, unanswered gaps  
+
+### Command-word mini guide (common patterns)
+
+| Word | Do |
+|------|-----|
+| State / give | Short, direct |
+| Describe | What it is / what happens |
+| Explain | Because / therefore — mechanism |
+| Compare | Both sides + linking word |
+| Evaluate / discuss | For, against, judgement |
+| Calculate | Working + units + sensible rounding |
+
+*(Your subject teachers’ definitions win if they differ.)*
+
+### After
+
+- Emotional dump once, then **error log** when marks return  
+- Don’t rebuild identity on one paper  
+
+---
+
+## Part 5 — Quick guides by need (where to go in this book)
+
+| I need… | Use |
+|---------|-----|
+| Start in 48 hours | Ch 15 starter + this chapter’s exam technique |
+| 11+ / year-group focus | Ch 16 |
+| Subject / life choices | Ch 17 |
+| Stop delaying | Ch 3 action timing |
+| Methods that raise marks | Ch 5 |
+| Sleep / water / calm | Ch 8–9 |
+| Friends / family pressure | Ch 11–13 |
+| One-page ethics + sheets | **This chapter** |
+
+### “Pocket” weekly quick guide
+
+```text
+Mon–Thu: learn + recall
+Fri: mixed questions
+Weekend: one longer timed set OR weak-topic deep dive
+Daily: sleep target, water bottle, phone out in blocks
+Sunday: error log review + next week’s top 3
+```
+
+### “Pocket” exam-week quick guide
+
+```text
+Papers > new rabbit holes
+Error log > random topics
+Sleep > midnight highlighting
+Light review night before
+Pack kit + route + candidate info
+Breath 2 min → start paper plan → write
+```
+
+---
+
+## Part 6 — What we deliberately do **not** put in this book
+
+Full subject textbooks, every mark scheme, or “secret predicted questions” for every board.
+
+**Why:** they go out of date, and they bloat the life system.  
+
+**Instead:**
+
+- Use **your exam board specification** + school materials as the subject guide  
+- Use **this book** as the operating system  
+- Use **your cheat sheets** as the personal layer  
+
+If the family wants later add-ons, useful optional packs are:
+
+- Printable blank templates (error log, weekly plan, options sheet)  
+- Stage one-pagers (11+, Y10, Y11)  
+- Subject-agnostic essay / calculation checklists  
+
+Not required for the core guide to work.
+
+---
+
+## Bottom line
+
+| Question | Answer |
+|----------|--------|
+| Add cheats? | **Revision cheat sheets + technique — yes. Dishonesty — no.** |
+| Add shortcuts? | **Yes, if they focus practice and protect sleep.** |
+| Add more guides? | **Stage + subject + life guides — yes (Ch 16–17). Full subject curricula — outside this book.** |
+
+> The ultimate shortcut is simple:  
+> **practise like the exam, rest like an athlete, live like someone who will need these skills after results day.**
+
+---
+
+*[← Subject Choice & Life Aim](17-subject-choice-and-life-aim.md) · [Back to Contents](00-contents.md)*

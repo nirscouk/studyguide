@@ -38,6 +38,8 @@ Make them **specific + measurable + dated**:
 Ask: *“What’s the outcome for today’s block?”*  
 Not only: *“Have you studied?”*
 
+Targets look different by stage (11+, Y7–11, GCSE options) — see [Chapter 16](16-stage-path-11plus-to-gcse.md) and [Chapter 17](17-subject-choice-and-life-aim.md).
+
 ---
 
 *[← Exams and Life](01-exams-and-life.md) · [Next: Action Timing →](03-action-timing.md)*

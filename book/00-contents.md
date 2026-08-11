@@ -6,7 +6,8 @@
 
 ## How to read
 
-Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then jump to [Chapter 15 — Starter & Integration](15-starter-and-integration.md).
+Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then jump to [Chapter 15 — Starter & Integration](15-starter-and-integration.md).  
+For **11+ / year group / GCSE / subject choice**, use [Part VI](#part-vi--stage-subjects--life-direction).
 
 **Single-file edition:** [BOOK.md](BOOK.md)
 
@@ -52,6 +53,19 @@ Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then j
 |---|---------|
 | 14 | [Character, Mindset & Manifestation](14-mindset-and-manifestation.md) |
 | 15 | [Two-Week Starter Plan & Life Integration](15-starter-and-integration.md) |
+
+## Part VI — Stage, subjects & life direction
+
+| # | Chapter |
+|---|---------|
+| 16 | [Your Stage — 11+, Years 7–10, and GCSE](16-stage-path-11plus-to-gcse.md) |
+| 17 | [Choosing Subjects & Aiming for Life](17-subject-choice-and-life-aim.md) |
+
+## Part VII — Shortcuts & quick tools
+
+| # | Chapter |
+|---|---------|
+| 18 | [Shortcuts, “Cheat Sheets” & Quick Guides](18-shortcuts-and-quick-guides.md) |
 
 ---
 

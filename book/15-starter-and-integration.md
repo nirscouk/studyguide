@@ -101,4 +101,10 @@ You need a **repeatable system** — and the courage to start today’s block.
 
 ---
 
-*[← Mindset](14-mindset-and-manifestation.md) · [Back to Contents](00-contents.md)*
+### Stage add-on (after Day 0)
+
+Open [Chapter 16](16-stage-path-11plus-to-gcse.md) for your year, and if you are choosing options, [Chapter 17](17-subject-choice-and-life-aim.md).
+
+---
+
+*[← Mindset](14-mindset-and-manifestation.md) · [Next: Stage Path →](16-stage-path-11plus-to-gcse.md)*
