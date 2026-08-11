@@ -60,4 +60,4 @@ When those fields are filled, rebuild Week 1–2 around **your** mark-weighted t
 
 ---
 
-*[← Behaviour With People](13-behaviour-friends-family-school.md) · [Back to Contents](00-contents.md)*
+*[← Behaviour With People](13-behaviour-friends-family-school.md) · [Next: Sleep & Action Timing →](15-sleep-and-action-timing.md)*

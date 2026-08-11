@@ -41,6 +41,8 @@ Assign **specific subjects to specific slots**. Decision fatigue drops when the 
 
 If a task takes **less than two minutes** (file a note, quick flashcard pass, tidy folder), **do it immediately**.
 
+For the full split between **just doing**, **strategic delay**, and **procrastination** (plus sleep timing), see [Chapter 15](15-sleep-and-action-timing.md).
+
 ### Daily template (copy into your notebook)
 
 ```text

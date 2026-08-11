@@ -32,6 +32,13 @@
 13. [Behaviour Patterns: Friends, School & Family](13-behaviour-friends-family-school.md)
 14. [Practical Integration Loop](14-practical-integration.md)
 
+### Part C — Sleep, Action & Daily Fuel
+
+15. [Sleep Time & Action Timing](15-sleep-and-action-timing.md)  
+    *(sleep windows · just doing · strategic delay · procrastination)*
+16. [Meditation & Drinking Water](16-meditation-and-water.md)  
+    *(breath practices · bottle system · exam-day habits)*
+
 **Single-file edition:** [BOOK.md](BOOK.md)
 
 ---
@@ -122,6 +129,8 @@ Assign **specific subjects to specific slots**. Decision fatigue drops when the 
 ### Two-minute rule
 
 If a task takes **less than two minutes** (file a note, quick flashcard pass, tidy folder), **do it immediately**.
+
+For the full split between **just doing**, **strategic delay**, and **procrastination** (plus sleep timing), see [Chapter 15](15-sleep-and-action-timing.md).
 
 ### Daily template (copy into your notebook)
 
@@ -295,6 +304,7 @@ High performance is **biological as much as mental**. Treat the body as the vehi
 - **7–9 hours**, consistent wake time  
 - Memory consolidation, emotional regulation, and focus depend on it  
 - Chronic short sleep raises stress load and tanks cognition  
+- Full playbook (timing, exam week, revenge bedtime): [Chapter 15 — Sleep Time & Action Timing](15-sleep-and-action-timing.md)  
 
 ### Movement
 
@@ -305,14 +315,22 @@ High performance is **biological as much as mental**. Treat the body as the vehi
 ### Nutrition & hydration
 
 - Prioritise **protein** at meals for steady energy  
-- Stay hydrated  
+- **Water:** bottle on the desk; sip across the day — full guide in [Chapter 16](16-meditation-and-water.md)  
 - Avoid heavy sugar crashes during deep-work blocks  
 - Match carbohydrates roughly to activity level  
+- Coffee/tea in limits; pair with water; cut late caffeine if sleep suffers  
+
+### Meditation & breath (short, practical)
+
+- **3–10 minutes** of breath-focus or box breathing beats rare long sessions  
+- Best use: **before a deep-work block** or to reset after a hard paper — then start work within 60 seconds  
+- Not a substitute for active recall; not an excuse to delay all evening  
+- Full practices and timing: [Chapter 16 — Meditation & Drinking Water](16-meditation-and-water.md)  
 
 ### Recovery & stress
 
 - Short walks, breathing, or deliberate downtime prevent burnout  
-- Chronic stress impairs learning; recovery protects it  
+- Chronic stress impairs learning; recovery practices protect it  
 
 ## Focus environment
 
@@ -328,7 +346,9 @@ Reduce the barrier: start with **15–20 minutes of active recall only**. Starti
 
 - [ ] Sleep target met (or recovering toward it)  
 - [ ] Moved at least 20 minutes  
-- [ ] Water + a real meal before long study  
+- [ ] Water bottle filled and used across the day  
+- [ ] A real meal before long study  
+- [ ] Optional: 3–10 min meditation/breath before hardest block  
 - [ ] Phone controlled during blocks  
 - [ ] At least one recovery break planned  
 
@@ -971,4 +991,436 @@ When those fields are filled, rebuild Week 1–2 around **your** mark-weighted t
 
 ---
 
-*[← Behaviour With People](13-behaviour-friends-family-school.md) · [Back to Contents](00-contents.md)*
+*[← Behaviour With People](13-behaviour-friends-family-school.md) · [Next: Sleep & Action Timing →](15-sleep-and-action-timing.md)*
+
+---
+
+# 15. Sleep Time & Action Timing
+
+Two hidden mark-killers: **bad sleep timing** and **confusing delay with strategy**. This chapter separates rest from laziness, and **procrastination** from **doing now** and **doing later on purpose**.
+
+---
+
+## Part 1 — Sleep time
+
+### How much and when
+
+| Target | Why it matters for grades |
+|--------|---------------------------|
+| **7–9 hours** most nights (teenagers often need the higher end) | Memory consolidation, attention, mood, exam stamina |
+| **Consistent wake time** (±30–60 min, including weekends when possible) | Stabilises energy and focus across the week |
+| **Consistent-ish bedtime** | Easier to fall asleep; fewer “wired at 1am” nights |
+| **Protect the hour before bed** | Screens, arguments, and cram panic delay sleep onset |
+
+Sleep is not “lost study time.” It is when the brain **locks in** what you practised. Short sleep often means you re-study the same material because it never stuck.
+
+### Ideal study-day sleep pattern (simple)
+
+```text
+Wake  → water + light + movement + breakfast
+        optional 3–5 min breath / meditation → then first action
+Morning / early afternoon  → hardest subjects (peak focus for many people)
+                           → bottle on desk; sip on breaks
+Late afternoon  → practice / review
+Evening  → lighter review only; no brand-new panic topics if possible
+           ease off large water volumes if night waking is an issue
+Wind-down 45–60 min  → no heavy screens if sleep is fragile
+                       optional short calm breath (not endless delay)
+Sleep  → full block, same window most nights
+```
+
+Hydration and meditation detail: [Chapter 16](16-meditation-and-water.md).
+
+### Sleep timing rules for exams
+
+| Do | Don’t |
+|----|--------|
+| Keep wake time stable in exam week | Flip to 3am–midday “vampire mode” |
+| Slightly earlier bedtime 2–3 nights before a paper | All-nighter the night before |
+| Short nap 10–20 min early afternoon if needed | 2-hour nap at 6pm that ruins night sleep |
+| Finish intense revision with a buffer before bed | End at midnight in full adrenaline |
+| If you must stay up once, recover the next night | Stack sleep debt all week |
+
+### “Revenge bedtime” (name it so you can stop it)
+
+You delay sleep to reclaim free time after a controlled day (“the night is finally mine”). It feels like freedom; it steals tomorrow’s marks.
+
+**Fix:** schedule a real free block earlier (walk, show, chat) so sleep is not your only autonomy.
+
+### Minimum sleep protocol (when life is messy)
+
+1. Pick a **fixed wake time**.  
+2. Count back **8 hours** → that is your target “in bed” time.  
+3. Phone charges **outside the bed**.  
+4. If you can’t sleep in 20 minutes: get up, dim light, paper book or boring notes, return when sleepy — no long video spiral.  
+
+### Sleep vs study trade-off (honest math)
+
+| Choice | Short-term feel | Typical result |
+|--------|-----------------|----------------|
+| +2 hours cram, −2 hours sleep | “I did more” | Weaker recall next day; more mistakes |
+| Stop on time, sleep full | “I left work undone” | Stronger retrieval; better paper performance |
+| Light review + full sleep | Calm | Often beats frantic late night |
+
+**Rule of thumb:** after ~10–11pm of diminishing returns, **sleep usually beats another passive hour of notes**.
+
+---
+
+## Part 2 — Three ways of relating to tasks
+
+People mix these up. They feel similar in the moment (“I’m not doing it right now”) but they are **not the same**.
+
+### Snapshot comparison
+
+| | **Just doing** | **Doing after some time** (intentional delay) | **Procrastination** |
+|--|----------------|-----------------------------------------------|---------------------|
+| **Decision** | Start now (or at the scheduled slot) | Delay with a clear reason and a clear start time | Delay without a real plan, or with a fake plan |
+| **Clock** | “Now / at 7:00 as written” | “At 7:00 after dinner / after class” | “Later… soon… tonight… tomorrow” |
+| **Emotion** | Mild resistance, then motion | Calm or strategic | Avoidance, guilt, relief from distraction |
+| **Outcome path** | Work happens | Work happens on the planned window | Work shrinks, panic grows, sleep dies |
+| **Self-talk** | “Start ugly for 10 minutes” | “Not now — then at X, method Y” | “I’ll feel like it later” / “I work better under pressure” |
+
+---
+
+### 1. Just doing (default high-marks behaviour)
+
+**Definition:** When the task is due in your plan (or is small), you **start** — imperfectly — instead of negotiating with your mood.
+
+**Looks like:**
+
+- Timer on → first past-paper question within 60 seconds  
+- Two-minute rule for tiny tasks (file notes, open Anki)  
+- “I don’t feel ready” and you begin the first easy sub-step anyway  
+
+**Why it wins:** Mood follows action more often than action follows mood. Starting creates evidence and reduces dread.
+
+**Micro-protocol (when stuck):**
+
+1. Shrink the task: “only the first question” or “only 10 minutes.”  
+2. Remove the phone.  
+3. Start the ugliest useful action (blank page recall beats perfect notes setup).  
+4. Only re-decide after one full Pomodoro.  
+
+**Just doing is not** grinding 12 hours with no breaks. It is **honouring the next scheduled action**.
+
+---
+
+### 2. Doing after some time (strategic delay)
+
+**Definition:** You **choose** not to do it this second because a better time, energy, or sequence exists — and you **write the replacement commitment**.
+
+This is **planning**, not procrastination.
+
+**Valid reasons to delay:**
+
+| Reason | Example commitment |
+|--------|--------------------|
+| Energy match | “Hard maths at 8am tomorrow, not at 11pm tonight.” |
+| Dependency | “Read Chapter 4 notes for 20 min, *then* past paper at 7.” |
+| Recovery | “Sleep now; timed paper at 9am Saturday.” |
+| Batching | “All admin (print, file) Sunday 5–5:30; study blocks stay clean.” |
+| Social reality | “Family dinner 6–7; study block 7:15–8:45 locked.” |
+
+**The test (must pass all three):**
+
+1. **When** exactly will I start? (clock time, not “later”)  
+2. **What** exactly will I do first? (one visible action)  
+3. **Why** is delaying better than starting a small piece now?  
+
+If you cannot answer, it is probably procrastination wearing a planner costume.
+
+**Good delay statement:**
+
+```text
+Not now.
+Start: Tuesday 16:30
+First action: open 2023 Paper 1, Q1 only, 25 min timer
+Reason: post-class energy is better for this subject
+```
+
+**Bad delay statement:**
+
+```text
+I’ll do it tonight when I feel focused.
+```
+
+---
+
+### 3. Procrastination (avoidance loop)
+
+**Definition:** You delay a meaningful task **despite expecting to be worse off**, usually to escape discomfort (boredom, fear of failure, confusion, perfectionism, phone reward).
+
+**Common flavours**
+
+| Flavour | What you tell yourself | What actually happens |
+|---------|------------------------|------------------------|
+| **Classic** | “Later” | Scroll / tidy / snack |
+| **Productive procrastination** | “I’ll organise notes first” | Perfect folders, zero retrieval |
+| **Perfection procrastination** | “When I have a full free day” | Never starts |
+| **Pressure romance** | “I work better last minute” | Panic quality + sleep debt |
+| **Social procrastination** | “Quick chat first” | Evening gone |
+| **Research rabbit hole** | “Need more resources” | No practice questions |
+
+**Body clues:** tight chest, sudden hunger, urge to clean, sudden sleepiness only when the book opens, endless tab setup.
+
+**Honest reframe:** Procrastination is often **emotion management**, not time management. Fix the feeling *and* start a tiny action.
+
+**Anti-procrastination ladder**
+
+1. Name it: “This is avoidance, not strategy.”  
+2. Name the emotion: fear / boredom / overwhelm / shame.  
+3. Drop the standard: 10-minute ugly start.  
+4. Change environment: different chair, phone out, one tab.  
+5. Public or written start time if you keep sliding.  
+6. If still stuck: do **active recall of anything related** for 5 minutes — motion over masterpiece.  
+
+---
+
+## Part 3 — Decision tree (use in 30 seconds)
+
+```text
+Is this on my plan for RIGHT NOW?
+├─ Yes → Just do it (10-min start if needed)
+└─ No
+   ├─ Do I have a better time WITH a written start + first action?
+   │  ├─ Yes → Strategic delay (calendar it; protect sleep)
+   │  └─ No → Either do a small piece now OR schedule it in the next 24h
+   │
+   └─ Am I delaying mainly to feel better for a moment?
+      └─ Yes → Procrastination → run the anti-procrastination ladder
+```
+
+### Sleep + delay interaction (important)
+
+| Pattern | Name | Fix |
+|---------|------|-----|
+| “I’ll study after one more video” at 12:40am | Procrastination + sleep theft | Stop; sleep; reschedule to morning |
+| “Hard topic tomorrow 8am, sleep now” | Strategic delay | Correct if 8am is real |
+| “All-nighter because I delayed all week” | Procrastination debt | Never plan this; recover system next day |
+| “I’m tired so I scroll until 2am” | Avoidance disguised as rest | Real rest = sleep or low-light quiet, not short-form video |
+
+**Rest is intentional. Procrastination is accidental rest that doesn’t restore you.**
+
+---
+
+## Part 4 — Daily templates
+
+### Sleep log (one line)
+
+```text
+In bed: __:__  Asleep ~ __:__  Wake: __:__  Hours: __  Quality 1–5: __
+```
+
+### Action log (when you catch yourself delaying)
+
+```text
+Task:
+Am I: [ ] just doing  [ ] strategic delay  [ ] procrastinating
+If strategic: start time ____  first action ________________
+If procrastinating: emotion ____  10-min start at ____
+```
+
+### Evening shutdown (protect sleep + kill fake “later”)
+
+1. Write **top 3** for tomorrow with times.  
+2. Any unfinished task gets a **clock**, not a hope.  
+3. Phone away.  
+4. Lights down. Sleep window begins.  
+
+---
+
+## Quick reference card
+
+| If you hear yourself say… | It is probably… | Next move |
+|---------------------------|------------------|-----------|
+| “Start the timer” | Just doing | Begin |
+| “After dinner at 7:15, Paper Q1–3” | Strategic delay | Calendar + keep promise |
+| “Tonight when I feel like it” | Procrastination | Schedule exact time or 10-min start now |
+| “Sleep less, grind more” | Sleep debt bet | Usually refuse; sleep wins more often |
+| “One more episode then bed” | Sleep procrastination | Bed now; free time earlier tomorrow |
+
+---
+
+*[← Practical Integration](14-practical-integration.md) · [Next: Meditation & Water →](16-meditation-and-water.md)*
+
+---
+
+# 16. Meditation & Drinking Water
+
+Two simple supports for focus that cost almost nothing: **short meditation (or breath practice)** and **steady water intake**. Neither replaces study methods — both make those methods easier to run.
+
+---
+
+## Part 1 — Meditation (for students)
+
+### What it is (study version)
+
+Meditation here means **training attention and calm on purpose** for a few minutes — not emptying your life of ambition, and not a substitute for past papers.
+
+Useful outcomes for exams:
+
+- Faster recovery after distraction  
+- Lower exam-day panic  
+- Clearer “start the work” moment (pairs with *just doing*)  
+- Better sleep onset if done earlier in the evening (not as a 1am scroll replacement)  
+
+### What it is not
+
+| Myth | Reality |
+|------|---------|
+| “I must clear my mind completely” | Thoughts will appear; you notice and return |
+| “30 minutes or it doesn’t count” | **3–10 minutes** daily beats rare long sessions |
+| “It replaces hard study” | It supports study; marks still need retrieval practice |
+| “Only for spiritual people” | Athletes and high performers use attention training routinely |
+
+### Three starter practices (pick one)
+
+#### A) Box breathing (2–5 minutes) — best before a hard block or exam
+
+1. Sit upright, feet on floor.  
+2. Inhale **4** counts → hold **4** → exhale **4** → hold **4**.  
+3. Repeat 4–8 rounds.  
+4. Open notes and start within **60 seconds**.  
+
+#### B) Breath-focus meditation (5–10 minutes) — daily baseline
+
+1. Timer on. Eyes soft or closed.  
+2. Feel breath at nose or belly.  
+3. When the mind wanders (it will), label once: “thinking” → return to breath.  
+4. No self-attack. Returning *is* the rep.  
+
+#### C) Body scan (5 minutes) — good when stress is physical
+
+1. Attention from feet → legs → torso → hands → face.  
+2. Soften jaw and shoulders once.  
+3. End with one intention: “Next action: ______.”  
+
+### When to meditate in a study day
+
+| Moment | Duration | Purpose |
+|--------|----------|---------|
+| After waking (optional) | 3–5 min | Set calm baseline |
+| **Before a deep-work block** | 2–5 min | Transition into focus |
+| After a frustrating paper | 3 min | Reset, then error-log |
+| Early evening wind-down | 5–10 min | Downshift (not right after caffeine) |
+| **Not** as infinite delay before starting | — | That becomes procrastination |
+
+**Pairing rule:** meditation ends → **immediate first study action** (same rule as manifestation).
+
+### Meditation vs procrastination
+
+| Healthy | Unhealthy |
+|---------|-----------|
+| 5 min sit → open past paper | 40 min “calm playlist + candles” → no work |
+| Use when anxious to *enable* start | Use to avoid a scary subject all evening |
+| Track days practised | Obsess over perfect stillness |
+
+### Mini log
+
+```text
+Date: ____  Minutes: ____  Type: breath / box / body
+Then I started: ________________  (must fill)
+```
+
+---
+
+## Part 2 — Drinking water
+
+### Why water matters for marks
+
+Mild dehydration often shows up as:
+
+- Headache or “heavy” head  
+- Irritability and shorter fuse with family/friends  
+- Drop in attention during long papers  
+- Confusing thirst with hunger or fatigue  
+
+You do not need extreme water goals. You need **not running dry** across study and exam blocks.
+
+### Practical targets (simple, not medical advice)
+
+| Habit | Guidance |
+|-------|----------|
+| Baseline | Drink regularly through the day; don’t wait until parched |
+| Study desk | Keep a **filled bottle** in sight; finish it across the session blocks |
+| Meals | Water with food; easy compliance |
+| Exercise / heat | Extra water when you sweat more |
+| Exams | Sip enough to stay comfortable; know toilet timing so you don’t overdo right before |
+
+Rough everyday cue many students use: pale-straw urine most of the day (very dark → likely under-drinking; constantly clear + constant toilet trips → maybe overdoing). Adjust for health conditions with a professional if needed.
+
+### Study-day water rhythm
+
+```text
+Wake          → 1 glass with or before breakfast
+Before block 1 → few sips
+During breaks → real drink (not only coffee)
+Lunch         → water with meal
+Afternoon     → refill bottle
+Evening       → steady; reduce large volumes right before bed if night waking is a problem
+Exam morning  → normal hydration, not a huge new experiment
+```
+
+### Water vs other drinks
+
+| Prefer for focus blocks | Use carefully |
+|-------------------------|---------------|
+| Water (plain / lightly flavoured) | Energy drinks (crash + sleep damage) |
+| Water between coffees | Bottomless caffeine replacing meals |
+| | Heavy sugary sodas (energy spike/crash) |
+| | Only discovering water on exam day |
+
+**Coffee/tea:** fine for many people in limited amounts; they are not full hydration. Pair each caffeinated drink with water. Avoid late caffeine if sleep is fragile (see [Chapter 15](15-sleep-and-action-timing.md)).
+
+### Bottle system (make it automatic)
+
+1. One bottle you actually like (you will use it).  
+2. Fill at the **start of the study day**.  
+3. Finish and refill **once by mid-afternoon**, again by evening if needed.  
+4. Put bottle **on the desk**, not in another room.  
+
+### Exam-hall tips
+
+- Know the rules (some halls allow a clear bottle only).  
+- Sip between sections; don’t chug mid-essay if it breaks flow.  
+- Practise the same bottle habit in timed mocks so it feels normal.  
+
+---
+
+## Part 3 — Combined micro-routine (8 minutes)
+
+Use this before your hardest daily block:
+
+| Step | Time | Action |
+|------|------|--------|
+| 1 | 30 sec | Fill or place water bottle on desk |
+| 2 | 2–5 min | Box breathing or breath-focus |
+| 3 | 10 sec | Sip water |
+| 4 | Rest of block | Active study (phone away) |
+| 5 | Each break | Sip water; 20-sec shoulder drop |
+
+### Daily checklist add-ons
+
+- [ ] Bottle filled and visible  
+- [ ] Drank across the day (not only at night)  
+- [ ] 3–10 min attention practice (or box breathing once)  
+- [ ] Meditation ended in a real study start  
+- [ ] Limited late caffeine so sleep still works  
+
+---
+
+## Quick reference
+
+| Tool | Minimum effective dose | Links to |
+|------|------------------------|----------|
+| Meditation / breath | 3–5 min before hard work | Focus, anxiety, *just doing* |
+| Water | Bottle on desk + regular sips | Attention, headache, exam stamina |
+| Sleep | 7–9 h (Ch 15) | Memory and mood |
+| Study methods | Active recall (Ch 3) | Actual marks |
+
+> Calm attention + a hydrated brain make deliberate practice easier.  
+> **They still don’t do the past paper for you.**
+
+---
+
+*[← Sleep & Action Timing](15-sleep-and-action-timing.md) · [Back to Contents](00-contents.md)*

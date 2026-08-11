@@ -52,10 +52,14 @@ studyguide/
 │   ├── 12-what-to-avoid.md
 │   ├── 13-behaviour-friends-family-school.md
 │   ├── 14-practical-integration.md
+│   ├── 15-sleep-and-action-timing.md
+│   ├── 16-meditation-and-water.md
 │   └── BOOK.md
 └── source/
     └── original-notes.txt   # raw source notes (optional archive)
 ```
+
+
 
 
 ## Licence / use

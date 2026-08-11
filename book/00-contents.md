@@ -26,6 +26,13 @@
 13. [Behaviour Patterns: Friends, School & Family](13-behaviour-friends-family-school.md)
 14. [Practical Integration Loop](14-practical-integration.md)
 
+### Part C — Sleep, Action & Daily Fuel
+
+15. [Sleep Time & Action Timing](15-sleep-and-action-timing.md)  
+    *(sleep windows · just doing · strategic delay · procrastination)*
+16. [Meditation & Drinking Water](16-meditation-and-water.md)  
+    *(breath practices · bottle system · exam-day habits)*
+
 **Single-file edition:** [BOOK.md](BOOK.md)
 
 ---

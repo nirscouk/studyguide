@@ -9,6 +9,7 @@ High performance is **biological as much as mental**. Treat the body as the vehi
 - **7–9 hours**, consistent wake time  
 - Memory consolidation, emotional regulation, and focus depend on it  
 - Chronic short sleep raises stress load and tanks cognition  
+- Full playbook (timing, exam week, revenge bedtime): [Chapter 15 — Sleep Time & Action Timing](15-sleep-and-action-timing.md)  
 
 ### Movement
 
@@ -19,14 +20,22 @@ High performance is **biological as much as mental**. Treat the body as the vehi
 ### Nutrition & hydration
 
 - Prioritise **protein** at meals for steady energy  
-- Stay hydrated  
+- **Water:** bottle on the desk; sip across the day — full guide in [Chapter 16](16-meditation-and-water.md)  
 - Avoid heavy sugar crashes during deep-work blocks  
 - Match carbohydrates roughly to activity level  
+- Coffee/tea in limits; pair with water; cut late caffeine if sleep suffers  
+
+### Meditation & breath (short, practical)
+
+- **3–10 minutes** of breath-focus or box breathing beats rare long sessions  
+- Best use: **before a deep-work block** or to reset after a hard paper — then start work within 60 seconds  
+- Not a substitute for active recall; not an excuse to delay all evening  
+- Full practices and timing: [Chapter 16 — Meditation & Drinking Water](16-meditation-and-water.md)  
 
 ### Recovery & stress
 
 - Short walks, breathing, or deliberate downtime prevent burnout  
-- Chronic stress impairs learning; recovery protects it  
+- Chronic stress impairs learning; recovery practices protect it  
 
 ## Focus environment
 
@@ -42,7 +51,9 @@ Reduce the barrier: start with **15–20 minutes of active recall only**. Starti
 
 - [ ] Sleep target met (or recovering toward it)  
 - [ ] Moved at least 20 minutes  
-- [ ] Water + a real meal before long study  
+- [ ] Water bottle filled and used across the day  
+- [ ] A real meal before long study  
+- [ ] Optional: 3–10 min meditation/breath before hardest block  
 - [ ] Phone controlled during blocks  
 - [ ] At least one recovery break planned  
 
