@@ -30,6 +30,17 @@ Exact rules depend on the school. Often something like:
 
 **Never drop literacy and numeracy standards** even if you love only creative subjects. Adult life and almost every good path still use them.
 
+### Optional — if you are at (or aiming for) a specific school
+
+Example: **Dartford Grammar School for Girls** (or any grammar / secondary). Once options open:
+
+- Use **that school’s options booklet and block grid** only — do not copy a friend’s school.  
+- Confirm compulsory core (English, maths, science pathway, languages, etc.) before you fall in love with four options.  
+- Ask subject teachers *at your school* what the course is like day to day.  
+- Re-run the five filters with real effort and real marks, not the prestige of the school badge.
+
+If you are still in the **11+ / application** stage, see the optional Kent / DGGS box in [Chapter 16](16-stage-path-11plus-to-gcse.md).
+
 ### Useful “door-openers” (not the only truth)
 
 | If you might want… | Subjects that often help |

@@ -62,6 +62,33 @@ A timed entrance-style exam set used by many grammar and selective schools. Form
 - [ ] Sleep protected in the final fortnight  
 - [ ] Backup school plan discussed without shame  
 
+### Optional — Dartford Grammar School for Girls / Kent selective path
+
+*Skip this box if you are not applying in Kent or to this school. It is a family checklist, not the whole chapter.*
+
+**Dartford Grammar School for Girls (DGGS)** is one high-demand selective school in the Dartford area. Year 7 entry is through the **Kent PESE / Kent Test** (the county 11+), not a separate school-only exam. You still need:
+
+1. **Register for the Kent Test** in the window Kent publishes (usually while the child is in **Year 5**).  
+2. **Sit the test** on the date Kent sets (often early autumn of Year 6).  
+3. Be assessed as **suitable for grammar** (selective).  
+4. **Name the school on the secondary CAF** (common application form) in preference order, and meet **that year’s admissions criteria** (distance, priorities, Pupil Premium rules, etc. change — use official docs only).
+
+**Kent Test shape (typical):** two multiple-choice sessions covering English, maths, and reasoning-style material (verbal / non-verbal as set by the current papers). Exact structure and familiarisation materials are published by **Kent County Council** each year — treat third-party blogs as secondary.
+
+**Family checklist (DGGS / Kent)**
+
+- [ ] Read the **current** Year 7 page: [dartfordgrammargirls.org.uk — Admissions / Year 7](https://www.dartfordgrammargirls.org.uk/Admissions/Year-7/)  
+- [ ] Read **Kent’s** PESE / Kent Test registration and familiarisation pages for *this* entry year  
+- [ ] Diarise registration deadline, test date, results day, and CAF deadline  
+- [ ] Practise with the **official familiarisation** style + short timed sets (Ch 16 methods above)  
+- [ ] Prefer **several** realistic schools on the CAF, not only DGGS  
+- [ ] Discuss a **good life plan if the place does not come** — same worth, different building  
+
+**After a place (or at any secondary):** run the Year 7–11 sections of this chapter. Subject options later still follow [Chapter 17](17-subject-choice-and-life-aim.md) using **that school’s** option blocks and booklet — not rumour.
+
+> DGGS (or any grammar) is an **opportunity**.  
+> The habits in this book are what make the opportunity useful.
+
 ---
 
 ## Year 7 — Roots
