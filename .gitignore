@@ -1,0 +1,22 @@
+# OS
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*~
+
+# Local exports (optional — keep source Markdown in git)
+*.pdf
+*.epub
+*.docx
+dist/
+build/
+out/
+
+# Env / secrets (if you add tooling later)
+.env
+.env.*
