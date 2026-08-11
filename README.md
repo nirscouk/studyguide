@@ -5,7 +5,7 @@ A practical, git-friendly **study and life system** for students — and a clear
 Built for:
 
 - **Higher exam marks** (methods that actually work)
-- **Better daily habits** (sleep, water, focus, action)
+- **Better daily habits** (sleep, water, food, exercise, focus, action)
 - **Healthier competition and relationships** (friends, school, home)
 - **Character that lasts after the exam**
 - **Stage guidance** — 11+, Years 7–10, GCSE, subject choice, life direction
@@ -26,7 +26,7 @@ Built for:
 
 1. **Foundation** — exams + life, clear targets  
 2. **Study engine** — action timing, time, methods, notes, exam cycles  
-3. **Body & mind** — sleep, water, meditation, energy  
+3. **Body & mind** — sleep, water, meditation, food, exercise, energy  
 4. **People** — friends, school, family, competition, traps  
 5. **Launch** — mindset tools + 2-week starter + weekly loop  
 6. **Stage & direction** — 11+, Y7–11, GCSE, subject choice, life aim  

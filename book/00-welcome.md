@@ -12,7 +12,7 @@ A practical system:
 
 1. **Know what matters** (targets, syllabus, high-value topics)  
 2. **Do the work that actually raises marks** (active recall, past papers)  
-3. **Protect the body** (sleep, water, movement, calm)  
+3. **Protect the body** (sleep, water, food, exercise, calm)  
 4. **Handle people wisely** (friends, class, family)  
 5. **Build character** (honesty, effort, recovery from failure)  
 
@@ -31,7 +31,7 @@ A practical system:
 | **Close to exams** | Skim Part II (methods) + sleep + “what to avoid”; do past papers daily |
 | **Stuck on procrastination** | Chapter on action timing first, then time management |
 | **Stressed by friends/family** | Part IV (people) + sleep |
-| **A parent** | Welcome + Ch 8 sleep + Ch 11 people + Ch 16–17; protect quiet blocks, not only pressure |
+| **A parent** | Welcome + Ch 8 sleep + Ch 10 food/exercise + Ch 11 people + Ch 16–17; protect quiet blocks, not only pressure |
 
 **Rule:** one idea → one action the same day. Reading alone does not raise grades.
 
@@ -41,7 +41,7 @@ A practical system:
 |------|--------|----------------|
 | **I** | Foundation | Why effort + systems beat luck; clear goals |
 | **II** | Study engine | Action, time, methods, notes, exam cycles |
-| **III** | Body & mind | Sleep, water, meditation, energy, focus |
+| **III** | Body & mind | Sleep, water, meditation, food, exercise, focus |
 | **IV** | People | Friends, school, family, competition, traps |
 | **V** | Character & launch | Mindset tools, 2-week plan |
 | **VI** | Stage & direction | 11+ → Y11, subject choice, life aim |

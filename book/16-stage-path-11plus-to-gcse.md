@@ -194,7 +194,7 @@ If anxiety or hours spiral, reduce noise (phone, drama) before adding more hours
 1. Clear weekly targets  
 2. Active practice > passive highlighting  
 3. Error log  
-4. Sleep, water, movement  
+4. Sleep, water, food, exercise  
 5. Kind people skills  
 6. Identity bigger than one result  
 

@@ -24,7 +24,7 @@ What worked? What leaked? One practice test scheduled?
 |-------|---------|
 | Systems | Timetable, folders, error log live |
 | Methods | Active recall every block; one timed set if ready |
-| Body | Sleep + water + walk non-negotiable |
+| Body | Sleep + water + real meals + walk/exercise non-negotiable |
 | People | Green allies ok; cut red drama time |
 | Review | Sunday: keep / cut / change |
 
@@ -42,7 +42,7 @@ What worked? What leaked? One practice test scheduled?
 
 ```text
 Plan week (high-impact first)
-  → Protect sleep, water, movement
+  → Protect sleep, water, food, exercise
   → Optional short breath / imagery
   → Execute active methods
   → Log errors

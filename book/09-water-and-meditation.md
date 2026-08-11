@@ -69,4 +69,4 @@ Feet → legs → torso → hands → face; soften jaw; name next action.
 
 ---
 
-*[← Sleep](08-sleep.md) · [Next: Body & Focus →](10-body-and-focus.md)*
+*[← Sleep](08-sleep.md) · [Next: Food, Exercise & Focus →](10-body-and-focus.md)*

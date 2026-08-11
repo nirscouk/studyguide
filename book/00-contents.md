@@ -37,7 +37,7 @@ For **11+ / year group / GCSE / subject choice**, use [Part VI](#part-vi--stage-
 |---|---------|
 | 8 | [Sleep — The hidden study method](08-sleep.md) |
 | 9 | [Drinking Water & Meditation](09-water-and-meditation.md) |
-| 10 | [Body, Energy & Focus Environment](10-body-and-focus.md) |
+| 10 | [Food, Exercise, Energy & Focus](10-body-and-focus.md) |
 
 ## Part IV — People & pressure
 
