@@ -1,40 +1,58 @@
-# High Marks Study Guide
+# The Ultimate Exam & Life Guide
 
-**Subtitle:** Deliberate practice, smart time control, social clarity, and a strong mind–body system for exam success.
+**For students who want high marks — and for families who want to support them well.**
 
-> Effective studying for good grades is less about long hours and more about **deliberate practice + smart time control**. Focus on high-impact methods, protect deep work, manage people and pressure wisely, and build systems that prevent last-minute panic.
+> Less about long chaotic hours. More about **deliberate practice**, **honest action**, **protected sleep**, and **character** you can take into adult life.
 
-## Table of contents
+## How to read
 
-### Part A — Foundations
-
-1. [Set Clear Targets First](01-clear-targets.md)
-2. [Time Management That Actually Works](02-time-management.md)
-3. [High-Impact Study Methods](03-high-impact-methods.md)
-4. [Note-Taking & Organisation](04-notes-and-organisation.md)
-5. [Weekly & Exam Cycle Routine](05-weekly-and-exam-cycle.md)
-6. [Energy, Focus & Mind–Body Strength](06-mind-and-body.md)
-7. [Simple Starter Template (First 2 Weeks)](07-starter-template.md)
-
-### Part B — Competition, Mindset & People
-
-8. [Competitive Edge: Advanced Techniques](08-competitive-edge.md)
-9. [Success: Hard Work vs Manifestation](09-success-hard-work.md)
-10. [Manifestation — How to Use It Without Fooling Yourself](10-manifestation.md)
-11. [Psychology of Fellow Students & Competition](11-peer-psychology-competition.md)
-12. [What to Avoid](12-what-to-avoid.md)
-13. [Behaviour Patterns: Friends, School & Family](13-behaviour-friends-family-school.md)
-14. [Practical Integration Loop](14-practical-integration.md)
-
-### Part C — Sleep, Action & Daily Fuel
-
-15. [Sleep Time & Action Timing](15-sleep-and-action-timing.md)  
-    *(sleep windows · just doing · strategic delay · procrastination)*
-16. [Meditation & Drinking Water](16-meditation-and-water.md)  
-    *(breath practices · bottle system · exam-day habits)*
+Start at [Welcome](00-welcome.md). If you need a plan today, skim Part II then jump to [Chapter 15 — Starter & Integration](15-starter-and-integration.md).
 
 **Single-file edition:** [BOOK.md](BOOK.md)
 
 ---
 
-*Next → [Chapter 1: Set Clear Targets First](01-clear-targets.md)*
+## Part I — Foundation
+
+| # | Chapter |
+|---|---------|
+| 0 | [Welcome — How to use this guide](00-welcome.md) |
+| 1 | [Exams and Life — The real game](01-exams-and-life.md) |
+| 2 | [Clear Targets First](02-clear-targets.md) |
+
+## Part II — The study engine
+
+| # | Chapter |
+|---|---------|
+| 3 | [Action Timing — Just doing, waiting, procrastinating](03-action-timing.md) |
+| 4 | [Time Management That Works](04-time-management.md) |
+| 5 | [Study Methods That Raise Marks](05-study-methods.md) |
+| 6 | [Notes & Organisation](06-notes-and-organisation.md) |
+| 7 | [Weekly Rhythm & Exam Countdown](07-weekly-and-exam-cycle.md) |
+
+## Part III — Body & mind fuel
+
+| # | Chapter |
+|---|---------|
+| 8 | [Sleep — The hidden study method](08-sleep.md) |
+| 9 | [Drinking Water & Meditation](09-water-and-meditation.md) |
+| 10 | [Body, Energy & Focus Environment](10-body-and-focus.md) |
+
+## Part IV — People & pressure
+
+| # | Chapter |
+|---|---------|
+| 11 | [Behaviour With Friends, School & Family](11-people-at-home-and-school.md) |
+| 12 | [Peer Psychology & Healthy Competition](12-competition-psychology.md) |
+| 13 | [What to Avoid](13-what-to-avoid.md) |
+
+## Part V — Character & launch
+
+| # | Chapter |
+|---|---------|
+| 14 | [Character, Mindset & Manifestation](14-mindset-and-manifestation.md) |
+| 15 | [Two-Week Starter Plan & Life Integration](15-starter-and-integration.md) |
+
+---
+
+*Begin → [Welcome](00-welcome.md)*
